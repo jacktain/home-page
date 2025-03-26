@@ -3,9 +3,9 @@
 ```json
 {
 	"metaData": {
-		"title": "Leleo的个人主页",
-		"description": "欢迎来到Leleo的奇妙世界！",
-		"keywords": "Leleo,leleo,个人主页,个人网站"
+		"title": "qilifuzi的个人主页",
+		"description": "欢迎来到小七的奇妙世界！",
+		"keywords": "个人主页,个人网站"
 	},
 	"avatar": "/img/avatar.jpg",
 	"welcometitle": "Hi, I'm Leleo",
@@ -15,7 +15,7 @@
 	},
 	"brightness": 85,
 	"blur": 7,
-	"tags": ["乐观开朗", "温柔体贴", "随和亲切", "冷静沉着", "才思敏捷", "风趣幽默", "刚正不阿", "善解人意"],
+	"tags": ["冷静沉着", "才思敏捷",  "刚正不阿"],
 	"background": {
 		"pc": {
 			"type": "pic",
@@ -40,10 +40,10 @@
 	},
 	"socialPlatformIcons": [{
 		"icon": "mdi-github",
-		"link": "https://www.github.com/leleo886"
+		"link": "https://www.github.com/jacktain"
 	}, {
 		"icon": "mdi-email",
-		"link": "mailto:leleo886@foxmail.com"
+		"link": "mailto:jacktain30@gmail.com"
 	}, {
 		"icon": "mdi-qqchat",
 		"link": "https://im.qq.com/"
@@ -144,7 +144,7 @@
 		"title": "Project 1",
 		"subtitle": "1,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://blog.jkzz.f5.si",
 		"show": false
 	}, {
 		"go": "🗂️ 前往",
@@ -152,7 +152,7 @@
 		"title": "Project 2",
 		"subtitle": "2,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://a.jkzz.f5.si",
 		"show": false
 	}, {
 		"go": "📝 前往",
@@ -203,6 +203,6 @@
 		"url": "https://leleo.top",
 		"show": false
 	}],
-	"statement": ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"]
+	"statement": ["备案号：萌ICP备123456789号", "Copyright © 2025 小七"]
 }
 ```
